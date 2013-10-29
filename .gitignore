@@ -1,0 +1,18 @@
+#unity stuff
+Library/
+Temp/
+
+#monodevelop stuff
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
+# vim ( since i won't be using it)
+*.swp
+
+#OS X stuff
+.DS_Store
+
+
